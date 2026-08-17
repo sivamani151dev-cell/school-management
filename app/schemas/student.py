@@ -18,7 +18,7 @@ class StudentUpdate(BaseModel):
     parent_phone: Optional[str] = None
     is_active: Optional[bool] = None
 
-class StudentResspone(BaseModel):
+class StudentRessonse(BaseModel):
     id: int
     name: str
     age: int
