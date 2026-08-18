@@ -13,7 +13,7 @@ class FeeUpdate(BaseModel):
     status: Optional[FeeStatus] = None
     amount: Optional[float] = None
 
-class FeeResonse(BaseModel):
+class FeeResponse(BaseModel):
     id: int
     amount: float
     fee_type: str
