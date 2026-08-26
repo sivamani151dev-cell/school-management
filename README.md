@@ -122,5 +122,9 @@ docker-compose up --build
 
 ---
 
+## 🚀 Live Demo
+
+**API Docs:** [https://school-management-yvua.onrender.com/docs](https://school-management-yvua.onrender.com/docs)
+
 ## 🎯 Project Type
 Client-Ready Project — built to demonstrate complete school administration capabilities.
